@@ -1,0 +1,21 @@
+<div class="modal-content">
+  <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+      <div class="modal-body">
+        <form class="">
+          <div>
+            <label class="form-label" for="title">Habit Title</label>
+            <input placeholder="enter title" required="" type="text" id="title" class="form-control" value="gfsfd">
+          </div>
+          <div>
+            <label class="form-label" for="description">Describe it </label>
+            <input placeholder="short description" type="text" id="description" class="form-control" value="hf">
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary">Add Habit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
